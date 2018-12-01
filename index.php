@@ -26,7 +26,7 @@ else
     <meta name="keyword" content="<?php echo $pageDetails["Keywords"] ?>">
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
-    <title><?php echo $pageDetails["Title"] ?> - vivekmoyal.in</title>
+    <title><?php echo $pageDetails["Title"] ?></title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/blog.css" rel="stylesheet">
   </head>
